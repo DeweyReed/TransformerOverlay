@@ -11,3 +11,4 @@ issue [[Transformer] The color of BitmapOverlay is a little off](https://github.
    storage.
 6. Compare the video content with [the original image](app/src/main/res/drawable-nodpi/lut.jpg);
    Their colors are slightly different.
+   - Overlaying the result on the top of the original image and checking back and forth makes the difference more observable.
